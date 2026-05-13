@@ -1,0 +1,34 @@
+{
+  "songs": [
+    {
+      "id": "s_1778704697706_985",
+      "title": "Man I need- Olivia Dean",
+      "key": "C",
+      "tempo": "120",
+      "content": "[D]          [G]\nTalk to me, talk to me\nTalk to me, talk to me\nHm\n[G]Looks like we're making up [G]for lost time\nNeed you to spell it out for me\nBossa Nova on all night\nIt's like a type of alchemy\nIntroduce me to your best friend\nI can come and slot right in\nA satellite ain't even that far\nI, I kinda wonder where you are\nAlready know I can't leave it alone\nYou're on my mind, mm\nAlready gave you the time and the place\nSo, don't be shy\nJust come be the man I need\nTell me you got something to give, I want it\nI kinda like it when you call me wonderful\nWhatever the type of talk it is, come on then\nI gotta know you're meant to be the man I need\nTalk to me\nTalk to me\nMm, talk to me, talk to me\nBe the man that I need, baby\nTalk to me, talk to me\nBe the man that I need, need, need\nMm, talk to me, talk to me\nBe the man that I need, baby\nTalk to me, talk to me\nBe the man, man, man, man, man\nI'd like to think you feel the same way\nBut I can't tell with you sometimes\nSo, baby, let's get on the same page\nStop making me read between the lines\nAlready know I can't leave it alone\nYou're on my mind, mm\nAlready gave you the time and the place\nSo, don't be shy\nJust come be the man I need\nTell me you got something to give, I want it\nI kinda like it when you call me wonderful\nWhatever the type of talk it is, come on then\nI gotta know you're meant to be the man I need\nTalk to me, talk to me\nTalk to me, talk to me\nMm, talk to me, talk to me\nBe the man that I need, baby (be the man)\nTalk to me, talk to me\nBe the man that I need, need, need\nMm, talk to me, talk to me\nBe the man that I need, baby (be the man)\nTalk to me, talk to me\nBe the man, man, man, man, man\nMm\nMm, mm\nMm, mm",
+      "transpose": 0
+    },
+    {
+      "id": "s_1778705488969_953",
+      "title": "Neuer Song",
+      "key": "C",
+      "tempo": "120",
+      "content": "{verse}\n[C]Hier kommen deine [F]Lyrics rein\n[G]Akkorde in eckigen [C]Klammern",
+      "transpose": 0
+    },
+    {
+      "id": "s_1778706296439_620",
+      "title": "Perfect-Ed Sheeran",
+      "key": "C",
+      "tempo": "120",
+      "content": "I found a love for me\nOh, darling, just dive right in and follow my lead\nWell, I found a girl, beautiful and sweet\nOh, I never knew you were the someone waitin′ for me\n\n'Cause we were just kids when we fell in love\nNot knowin′ what it was\nI will not give you up this time\n\nOh, darling, just kiss me slow\nYour heart is all I own\nAnd in your eyes, you're holding mine\n\nBaby, I'm dancin′ in the dark with you between my arms\nBarefoot on the grass while listenin′ to our favourite song\nWhen you said you looked a mess, I whispered underneath my breath\nBut you heard it, \"Darling, you look perfect tonight\"\n\n\nWell, I found a woman, stronger than anyone I know\nShe shares my dreams, I hope that someday, I'll share her home\nI found a love to carry more than just my secrets\nTo carry love, to carry children of our own\n\nWe are still kids, but we′re so in love\nFightin' against all odds\nI know we′ll be alright this time\n\nDarling, just hold my hand\nBe my girl, I'll be your man\nI see my future in your eyes\n\nOh, baby, I′m dancin' in the dark with you between my arms\nBarefoot on the grass while listenin' to our favourite song\nWhen I saw you in that dress, lookin′ so beautiful\nI don′t deserve this, darling, you look perfect tonight\n\nNo, no, no\nMm\n\nBaby, I'm dancin′ in the dark with you between my arms\nBarefoot on the grass while listenin' to our favourite song\nI have faith in what I see, now I know I have met\nAn angel in person, and she looks perfect\n\nI don′t deserve this, you look perfect tonight",
+      "transpose": 0
+    }
+  ],
+  "setlist": [
+    "s_1778704697706_985",
+    "s_1778706296439_620"
+  ],
+  "exportedAt": "2026-05-13T21:06:10.462Z",
+  "version": 1
+}
